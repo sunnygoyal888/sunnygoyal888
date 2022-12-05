@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnygoyal888&label=Profile%20views&color=0e75b6&style=flat" alt="sunnygoyal888" /> </p>
 
-- 💬 Ask me about **Java, DSA, React, SpringBoot**
+- 💬 Ask me about **Java, DSA, Spring**
 
 - 📫 How to reach me **goyalsunny888@gmail.com**
 
